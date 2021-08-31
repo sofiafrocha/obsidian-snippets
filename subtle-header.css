@@ -1,0 +1,7 @@
+.view-header:not(:hover) {
+	background: var(--background-primary);
+}
+
+.workspace-split.mod-root > .workspace-leaf:first-of-type:last-of-type.mod-active .view-header-title-container:after {
+	background: transparent;
+}
