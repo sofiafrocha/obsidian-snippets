@@ -8,6 +8,6 @@
 
 .side-dock-ribbon.mod-left:not(:hover),
 .side-dock-ribbon.mod-right:not(:hover) {
-  opacity: 0.25;
+  opacity: 0.1;
   background: var(--background-primary);
 }
