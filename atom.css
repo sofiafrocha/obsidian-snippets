@@ -1,0 +1,21 @@
+/* 
+color: #00a388 !important;
+color: #015ccb !important;
+color: #d1604d !important;
+*/
+
+/* h1, */
+.cm-header-1 {
+  color: #015ccb !important;
+}
+
+/* h2, */
+.cm-header-2 {
+  color: #015ccb !important;
+  background-color: #C2DDFF;
+}
+
+/* h3, */
+.cm-header-3 {
+  color: #015ccb !important;
+}
